@@ -17,7 +17,7 @@ Passionate **Backend Developer** specialized in building robust, scalable, and p
 - 🔭 Currently working on intelligent backend systems and real-time processing pipelines
 - 🌱 Deeply exploring **Distributed Systems**, **Event-Driven Architecture**, and **MLOps**
 - 💡 I believe great software is born from clean architecture and thoughtful engineering
-- 📫 Reach me at: `hossein.mohammadi.kia [at] gmail.com` (replace with your real email)
+- 📫 Reach me at: hosseinmokia@gmail.com
 
 ---
 
