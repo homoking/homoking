@@ -1,8 +1,7 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/v3/api/words?type=wave&height=140&color=0A2540&text=Hossein%20Mohammadi%20Kia&font=Inter&fontSize=42&fontColor=ffffff" alt="Header" />
-
-### Backend Engineer | Microservices | ML Systems
+  <h1>Hossein Mohammadi Kia</h1>
+  <h3>Backend Engineer | Microservices | ML Systems</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=27&pause=1200&color=00B4FF&center=true&vCenter=true&width=720&lines=Building+scalable+and+resilient+backend+systems;Designing+high-performance+microservices;Bridging+Machine+Learning+with+production+systems;Clean+code+%7C+Solid+architecture+%7C+Always+shipping)](https://git.io/typing-svg)
 
@@ -56,8 +55,6 @@ Passionate **Backend Developer** specialized in building robust, scalable, and p
 [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=homoking&show_icons=true&theme=radical&hide_border=true&title_color=00B4FF&text_color=ffffff&icon_color=00B4FF&bg_color=0A2540)](https://github.com/homoking)
 
 [![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=homoking&layout=compact&theme=radical&hide_border=true&title_color=00B4FF&text_color=ffffff&bg_color=0A2540)](https://github.com/homoking)
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=homoking&theme=radical&column=4&margin-w=15&title_color=00B4FF)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
